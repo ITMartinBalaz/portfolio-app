@@ -1,0 +1,37 @@
+{
+  "public/images/logo.jpg": {
+    "file": "assets/logo-cbc26a95.jpg",
+    "src": "public/images/logo.jpg"
+  },
+  "public/images/projects/bookreviews.png": {
+    "file": "assets/bookreviews-a442bcda.png",
+    "src": "public/images/projects/bookreviews.png"
+  },
+  "public/images/projects/jobfinder.png": {
+    "file": "assets/jobfinder-7ff509f0.png",
+    "src": "public/images/projects/jobfinder.png"
+  },
+  "public/images/resume.jpg": {
+    "file": "assets/resume-aaec2522.jpg",
+    "src": "public/images/resume.jpg"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-d69e9f53.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/jobfinder-7ff509f0.png",
+      "assets/bookreviews-a442bcda.png",
+      "assets/resume-aaec2522.jpg",
+      "assets/logo-cbc26a95.jpg"
+    ],
+    "css": [
+      "assets/app-d69e9f53.css"
+    ],
+    "file": "assets/app-21d36853.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
